@@ -52,8 +52,12 @@ Utilizamos la herramienta *phpMyAdmin* para los siguientes pasos.
 - Seleccionamos el pool de conexiones que creamos anteriormete y especificamos un **nombre** para el JNDI  
 ![alt text][14]
 
-##### Generando los POJOS
+##### Generando los POJOS  
+Generaremos los POJOS a través de las entidades de la BD, para esto seguimos los siguientes pasos.
+- En la opción de *persistencia* seleccionamos la opción *crear las clases a partir de la BD*  
 ![alt text][15]
+
+- Seleccionamos todas las tablas que estén disponibles y las pasamos a la otra columna, donde estas serán las entidades que se van a generar.  
 ![alt text][16]
 ![alt text][17]
 ![alt text][18]
