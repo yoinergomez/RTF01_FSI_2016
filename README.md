@@ -36,12 +36,23 @@ Utilizamos la herramienta *phpMyAdmin* para los siguientes pasos.
 - Verificamos que se hayan creado las siguientes tablas  
 ![alt text][9]
 
-
+##### Conexión de la BD con el proyecto
+- Creamos un **pool de conexiones** que establecerá la comunicación con la BD
 ![alt text][10]
+
+- Nombramos el *pool de conexiones* y seleccionamos la conexión a la BD
 ![alt text][11]
+
+- Escribimos las credenciales del gestor de base de datos y verificamos que se esté seleccionando la BD correcta.  
 ![alt text][12]
+
+- Creamos un **recurso JDBC**
 ![alt text][13]
+
+- Seleccionamos el pool de conexiones que creamos anteriormete y especificamos un **nombre** para el JNDI  
 ![alt text][14]
+
+##### Generando los POJOS
 ![alt text][15]
 ![alt text][16]
 ![alt text][17]
