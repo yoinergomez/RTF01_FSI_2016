@@ -2,6 +2,8 @@
 ##### RTF 1 - FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN 2016  
 <br />
 #### Proceso de construcción del proyecto
+A continuación se describe los pasos que se llevaron a cabo para la creación de este demo.
+##### Creación y configuración inicial del proyecto
  - Se crea un proyecto vacío de tipo **aplicación web**  
 ![alt text][1]
 
@@ -11,9 +13,13 @@
  - Se elige el servidor de despliegue **Glassfish server** con la versión **javaEE 7**  
 ![alt text][3]
 
-
+- Elegimos el framework **JavaServer Faces** para controlar fácilmente los eventos generados por el usuario en la UI  
 ![alt text][4]
+
+- Nos aseguramos que lenguaje de las páginas sea **Facelets** para poder generar las UI con formato *XHTM*  
 ![alt text][5]
+
+
 ![alt text][6]
 ![alt text][7]
 ![alt text][8]
