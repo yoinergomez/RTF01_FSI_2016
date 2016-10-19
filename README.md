@@ -3,7 +3,7 @@
 <br />
 #### Proceso de construcción del proyecto
 A continuación se describe los pasos que se llevaron a cabo para la creación de este demo.
-<br />
+<br /><br /><br />
 ##### Creación y configuración inicial del proyecto
  - Se crea un proyecto vacío de tipo **aplicación web**  
 ![alt text][1]
