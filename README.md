@@ -20,11 +20,23 @@ A continuación se describe los pasos que se llevaron a cabo para la creación d
 - Nos aseguramos que lenguaje de las páginas sea **Facelets** para poder generar las UI con formato *XHTM*  
 ![alt text][5]
 
+##### Creación de la base de datos
+La base de datos se crea apartir del script que se encuentra alojado en este repositorio.  
+Utilizamos la herramienta *phpMyAdmin* para los siguientes pasos.
 
+- Ingresamos las credenciales para el acceso al gestor de base datos
 ![alt text][6]
+
+-  Creacmos una base de datos con el nombre *softfly*  
 ![alt text][7]
+
+- Nos dirigimos a la pestaña de *importar* y luego seleccionamos el script de la BD y presionamos en el botón *continuar*
 ![alt text][8]
+
+- Verificamos que se hayan creado las siguientes tablas  
 ![alt text][9]
+
+
 ![alt text][10]
 ![alt text][11]
 ![alt text][12]
