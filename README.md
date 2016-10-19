@@ -59,11 +59,22 @@ Generaremos los POJOS a través de las entidades de la BD, para esto seguimos lo
 
 - Seleccionamos todas las tablas que estén disponibles y las pasamos a la otra columna, donde estas serán las entidades que se van a generar.  
 ![alt text][16]
+
+- Elegimos un paquete donde se guardarán los modelos generados y damos clic en *siguiente*  
 ![alt text][17]
-![alt text][18]
+
+- Seleccionamos la manera en se van a trabajar las colecciones de datos que se producirán en las relaciones de las entidades y presionamos el botón *finalizar*   
 ![alt text][19]
+
+##### Generando las vistas
+A partir de las entidades generadas anteriormente, generaremos unas vistas *JSF*  
+- En la opción de **persistencia** elegimos el siguiente tipo de archivo  
 ![alt text][20]
+
+- Seleccionamos todas las entidades a las que queramos generar una vista  
 ![alt text][21]
+
+- Indicamos los paquetes donde se almacenarán los **session bean**, las clases y páginas **JSF**  
 ![alt text][22]
 
 [1]: https://raw.githubusercontent.com/yoinergomez/RTF01_FSI_2016/master/img/Captura%20de%20pantalla_2016-10-15_13-35-23.png
