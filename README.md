@@ -77,6 +77,10 @@ A partir de las entidades generadas anteriormente, generaremos unas vistas *JSF*
 - Indicamos los paquetes donde se almacenarán los **session bean**, las clases y páginas **JSF**  
 ![alt text][22]
 
+##### Despliegue
+![alt text][23]
+![alt text][24]
+
 [1]: https://raw.githubusercontent.com/yoinergomez/RTF01_FSI_2016/master/img/Captura%20de%20pantalla_2016-10-15_13-35-23.png
 [2]: https://raw.githubusercontent.com/yoinergomez/RTF01_FSI_2016/master/img/Captura%20de%20pantalla_2016-10-15_13-37-24.png
 [3]: https://raw.githubusercontent.com/yoinergomez/RTF01_FSI_2016/master/img/Captura%20de%20pantalla_2016-10-15_13-38-09.png
@@ -99,3 +103,5 @@ A partir de las entidades generadas anteriormente, generaremos unas vistas *JSF*
 [20]: https://raw.githubusercontent.com/yoinergomez/RTF01_FSI_2016/master/img/Captura%20de%20pantalla_2016-10-19_11-01-58.png
 [21]: https://raw.githubusercontent.com/yoinergomez/RTF01_FSI_2016/master/img/Captura%20de%20pantalla_2016-10-19_11-02-07.png
 [22]: https://raw.githubusercontent.com/yoinergomez/RTF01_FSI_2016/master/img/Captura%20de%20pantalla_2016-10-19_11-18-46.png
+[23]: https://raw.githubusercontent.com/yoinergomez/RTF01_FSI_2016/master/img/Captura%20de%20pantalla_2016-10-19_18-51-28.png
+[24]: https://raw.githubusercontent.com/yoinergomez/RTF01_FSI_2016/master/img/Captura%20de%20pantalla_2016-10-19_18-51-56.png
