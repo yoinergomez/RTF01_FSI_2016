@@ -79,6 +79,7 @@ A partir de las entidades generadas anteriormente, generaremos unas vistas *JSF*
 
 ##### Despliegue
 ![alt text][23]
+<br/><br/>
 ![alt text][24]
 
 [1]: https://raw.githubusercontent.com/yoinergomez/RTF01_FSI_2016/master/img/Captura%20de%20pantalla_2016-10-15_13-35-23.png
